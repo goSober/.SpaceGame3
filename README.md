@@ -1,1 +1,2 @@
-# .SpaceGame3
+# .SpaceGame3 to challenge me
+this way
